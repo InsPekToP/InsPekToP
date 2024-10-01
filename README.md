@@ -38,8 +38,10 @@
 
 ## Дополнительное образование
 - **Курс «Профессия Python разработчик»**, школа программирования itProger  
-  [Сертификат](https://itproger.com/view-diplom/c81ddc517c4b9442dc0ea28ca0fefeea/python) об успешном прохождении.
-  ![diplom](diplom.png)
+  [**Сертификат**](https://itproger.com/view-diplom/c81ddc517c4b9442dc0ea28ca0fefeea/python) об успешном прохождении.
+  <p><img src="diplom.png" alt="Описание картинки" width="400" height="300"/></p>
+
+
 
 ---
 

@@ -3,7 +3,7 @@
 Гданьск, Польша  
 [Портфолио](https://inspektop.github.io/Portfolio/) | [GitHub](https://github.com/InsPekToP)  
 
-**Дата рождения**: 27.03.1991  
+ 
 
 ---
 

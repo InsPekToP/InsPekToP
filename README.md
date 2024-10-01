@@ -1,8 +1,11 @@
+<div style="text-align: center;">
+
 # Михаил Голиков  
 **Junior Python-разработчик**  
 Гданьск, Польша  
 [Портфолио](https://inspektop.github.io/Portfolio/) | [GitHub](https://github.com/InsPekToP)  
 
+</div>
  
 
 ---
@@ -12,7 +15,7 @@
 
 ---
 
-## Проекты
+## Проекты:
 
 ### **Портфолио**  
 [Сайт](https://inspektop.github.io/Portfolio/) / [GitHub](https://github.com/InsPekToP/Portfolio)
@@ -38,7 +41,7 @@
 
 ## Дополнительное образование
 - **Курс «Профессия Python разработчик»**, школа программирования itProger  
-  [**Сертификат**](https://itproger.com/view-diplom/c81ddc517c4b9442dc0ea28ca0fefeea/python) об успешном прохождении.
+  [**Сертификат**](https://itproger.com/view-diplom/c81ddc517c4b9442dc0ea28ca0fefeea/python) об успешном прохождении курса.
   <p><img src="diplom.png" alt="Описание картинки" width="400" height="300"/></p>
 
 

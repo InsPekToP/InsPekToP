@@ -15,15 +15,15 @@
 ## Проекты
 
 ### **Портфолио**  
-[GitHub/Сайт](https://inspektop.github.io/Portfolio/)  
+[Сайт](https://inspektop.github.io/Portfolio/) / [GitHub](https://github.com/InsPekToP/Portfolio)
 Портфолио с использованием HTML, CSS и JavaScript. Поддержка 3 языков, адаптация под планшеты и телефоны, возможность скачать резюме на выбранном языке.
 
 ### **L2spike**  
-[GitHub/Сайт](https://github.com/InsPekToP/L2spike)  
+[Сайт](https://inspektop.github.io/L2spike/) / [GitHub](https://github.com/InsPekToP/L2spike)  
 Разработка игрового сервера для Lineage 2, направленного на восстановление и улучшение оригинального игрового опыта. Проект был создан двумя начинающими программистами.
 
 ### **L2zames**  
-[GitHub/Сайт](https://github.com/InsPekToP/L2zames)  
+[Сайт](https://inspektop.github.io/GitHub_Pages_test/) / [GitHub](https://github.com/InsPekToP/L2zames)  
 Проект, созданный в рамках курсов ITproger.com. Использование jQuery для создания интерактивных элементов и современных веб-решений.
 
 ### **InfinityFree**  

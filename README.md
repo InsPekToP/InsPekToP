@@ -5,8 +5,6 @@
 Гданьск, Польша  
 [Портфолио](https://inspektop.github.io/Portfolio/) | [GitHub](https://github.com/InsPekToP)  
 
-<a href="https://inspektop.github.io/Portfolio/" target="_blank">Портфолио</a> | <a href="https://github.com/InsPekToP" target="_blank">GitHub</a>
-
 </div>
  
 
@@ -21,8 +19,6 @@
 
 ### **Портфолио**  
 [Сайт](https://inspektop.github.io/Portfolio/) / [GitHub](https://github.com/InsPekToP/Portfolio)
-
-<a href="https://inspektop.github.io/Portfolio/" target="_blank">Сайт</a> / <a href="https://github.com/InsPekToP/Portfolio" target="_blank">GitHub</a>
 Портфолио с использованием HTML, CSS и JavaScript. Поддержка 3 языков, адаптация под планшеты и телефоны, возможность скачать резюме на выбранном языке.
 
 ### **L2spike**  

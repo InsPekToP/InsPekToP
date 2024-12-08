@@ -5,6 +5,8 @@
 Гданьск, Польша  
 [Портфолио](https://inspektop.github.io/Portfolio/) | [GitHub](https://github.com/InsPekToP)  
 
+<a href="https://inspektop.github.io/Portfolio/" target="_blank">Портфолио</a> | <a href="https://github.com/InsPekToP" target="_blank">GitHub</a>
+
 </div>
  
 
